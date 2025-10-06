@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final year project titled "Smart Modular Battery Swapping Station"<br>👯 I’m looking to collaborate on Automation, Robotics, IOT based projects.<br>🌱 I’m currently learning Machine Learning and Deep Learning.
+🔭 I’m currently working on my final year project "Smart Modular Battery Swapping Station"<br>👯 I’m looking to collaborate on Automation, Robotics, IOT based projects.<br>🌱 I’m currently learning Machine Learning and Deep Learning.
 
 
 ## 🌐 Socials:
